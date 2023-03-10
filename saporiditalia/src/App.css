@@ -3,4 +3,10 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+article {
+  margin: 1em;
 }
